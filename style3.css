@@ -1,0 +1,10 @@
+/*column styles in CSS*/
+img{
+	width:400ps;
+	height:200px;
+}
+.col{
+	width:33%;
+	float:left;
+	text-align:center;
+}
